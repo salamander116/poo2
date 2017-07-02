@@ -17,6 +17,7 @@ public abstract class AbstratcTicket implements Ticket {
 	}
 
 	public String getName() {
+		//just a comment
 		return name;
 	}
 
