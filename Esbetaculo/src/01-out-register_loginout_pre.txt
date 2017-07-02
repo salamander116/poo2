@@ -1,0 +1,34 @@
+User was registered: client1
+
+Welcome stevenwilson@gmail.com
+
+User already logged in.
+
+Goodbye stevenwilson@gmail.com
+
+User already exists.
+
+User does not exist.
+
+User was registered: admin1
+
+Welcome stevenwilson@gmail.com
+
+User does not exist.
+
+User already logged in.
+
+Another user is logged in.
+
+Goodbye stevenwilson@gmail.com
+
+Wrong password.
+
+Welcome opeth@gmail.com
+
+Goodbye opeth@gmail.com
+
+No user is logged in.
+
+Exiting.
+

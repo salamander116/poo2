@@ -1,0 +1,92 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+Goodbye opeth@gmail.com
+
+User was registered: client2
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+Welcome stevenwilson@gmail.com
+
+CONCERT OR FESTIVAL?
+Show does not exist.
+
+CONCERT OR FESTIVAL?
+Show does not exist.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 1500.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 1500.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+Goodbye stevenwilson@gmail.com
+
+Welcome guthrie@gmail.com
+
+CONCERT OR FESTIVAL?
+There are not sufficient seats for the request.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 35.
+
+CONCERT OR FESTIVAL?
+There are not sufficient seats for the request.
+
+CONCERT OR FESTIVAL?
+There are not sufficient seats for the request.
+
+Goodbye guthrie@gmail.com
+
+Welcome stevenwilson@gmail.com
+
+CONCERT OR FESTIVAL?
+There are not sufficient seats for the request.
+
+Exiting.
+

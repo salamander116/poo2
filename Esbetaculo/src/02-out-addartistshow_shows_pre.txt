@@ -1,0 +1,76 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist name already exists.
+
+Goodbye opeth@gmail.com
+
+User cannot execute this command.
+
+Welcome stevenwilson@gmail.com
+
+User cannot execute this command.
+
+Goodbye stevenwilson@gmail.com
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show already exists.
+
+Goodbye opeth@gmail.com
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+Welcome stevenwilson@gmail.com
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+CONCERT OR FESTIVAL?
+User cannot execute this command.
+
+Goodbye stevenwilson@gmail.com
+
+Welcome opeth@gmail.com
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show already exists.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Show does not exist.
+
+Show does not exist.
+
+Show does not exist.
+
+Show does not exist.
+
+Exiting.
+

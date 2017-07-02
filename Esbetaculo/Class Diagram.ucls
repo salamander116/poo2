@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="bands.BandClass" project="Esbetaculo" file="/Esbetaculo/src/bands/BandClass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="259" x="4439" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="bilhiate.Ticket" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/Ticket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="139" x="4662" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="exceptions.UserLoggedIn" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/UserLoggedIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="2673" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="bilhiate.FestivalTicket" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/FestivalTicket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="219" x="3130" y="1375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="exceptions.UserNotExist" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/UserNotExist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="1332" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="exceptions.ThereIsAUserLoggedIn" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/ThereIsAUserLoggedIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="189" x="3574" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="findConcertTicket.FindConcertTicket" project="Esbetaculo" 
+    file="/Esbetaculo/src/findConcertTicket/FindConcertTicket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="610" width="455" x="5048" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="exceptions.AdminNotOn" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/AdminNotOn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="626" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="shows.FestivalClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/FestivalClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="322" width="465" x="3358" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="shows.FestivalInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/FestivalInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="265" x="3821" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="shows.ShowsInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/ShowsInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="169" x="4230" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="12" language="java" name="bilhiate.ConcertTicket" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/ConcertTicket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="141" x="4082" y="1375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="exceptions.ShowAlreadyExists" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/ShowAlreadyExists.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="158" x="235" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="comparator.ComparatorByTickets" project="Esbetaculo" 
+    file="/Esbetaculo/src/comparator/ComparatorByTickets.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="282" x="3803" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="users.ClientInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/users/ClientInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="347" x="5736" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="Main" project="Esbetaculo" file="/Esbetaculo/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="574" width="364" x="1687" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="exceptions.ArtistsDontExist" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/ArtistsDontExist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="252" x="819" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="bilhiate.FestivalTicketClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/FestivalTicketClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="315" x="3130" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="findConcertTicket.FindConcertTicketInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/findConcertTicket/FindConcertTicketInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="455" x="5048" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="20" language="java" name="bands.Band" project="Esbetaculo" file="/Esbetaculo/src/bands/Band.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="183" x="4439" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="exceptions.NoUserLoggedIn" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/NoUserLoggedIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="42" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="users.ClientClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/users/ClientClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="347" x="5543" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="23" language="java" name="users" project="Esbetaculo" file="/Esbetaculo/src/users" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1525" y="37"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="24" language="java" name="comparator.ComparatorByDate" project="Esbetaculo" 
+    file="/Esbetaculo/src/comparator/ComparatorByDate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="282" x="2866" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="exceptions.BandAlreadyExists" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/BandAlreadyExists.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="156" x="2477" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="shows.AbstractShows" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/AbstractShows.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="267" width="274" x="4125" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="27" language="java" name="bands.Artist" project="Esbetaculo" file="/Esbetaculo/src/bands/Artist.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="270" x="4738" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="28" language="java" name="exceptions.UserAlreayExists" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/UserAlreayExists.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="3381" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="users.UsersAbstract" project="Esbetaculo" 
+    file="/Esbetaculo/src/users/UsersAbstract.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="249" width="169" x="5930" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="exceptions.AnotherUserLoggedIn" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/AnotherUserLoggedIn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="181" x="1111" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="users.UsersInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/users/UsersInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="142" x="5930" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="32" language="java" name="shows.ConcertInterface" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/ConcertInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="176" x="4126" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="33" language="java" name="shows.ConcertsClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/shows/ConcertsClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="327" x="3863" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="bilhiate.AbstratcTicket" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/AbstratcTicket.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="195" width="188" x="3130" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="bilhiate.ConcertTicketClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/bilhiate/ConcertTicketClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="279" x="3502" y="1157"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="users.AdminClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/users/AdminClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="156" x="6112" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="exceptions.WrongPassword" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/WrongPassword.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="433" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="exceptions.UnknownShow" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/UnknownShow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="2284" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="exceptions.ShowNotExist" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/ShowNotExist.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="2091" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="exceptions.NoTickets" project="Esbetaculo" 
+    file="/Esbetaculo/src/exceptions/NoTickets.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="153" x="3188" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="bands.ArtistClass" project="Esbetaculo" 
+    file="/Esbetaculo/src/bands/ArtistClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="270" x="4439" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <realization id="44">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <association id="48">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="49" name="myBlyatsConcerts"/>      
+      <multiplicity id="50" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="51">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <realization id="52">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="34"/>  
+  </generalization>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="60">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="61" name="artists"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="63">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="65">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="66" name="users"/>      
+      <multiplicity id="67" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="69" name="shows"/>      
+      <multiplicity id="70" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <generalization id="73">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <realization id="74">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <association id="75">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="76" name="myBlyatsFestivals"/>      
+      <multiplicity id="77" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="78">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <realization id="79">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

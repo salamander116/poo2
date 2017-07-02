@@ -1,0 +1,167 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Concerts:
+Opeth @ Incrivel Almadense
+Opeth
+2011-11-20
+30
+250
+Steven Wilson yet again
+Steven Wilson
+2017-01-30
+25
+250
+Steven Wilson in Lisbon
+Steven Wilson
+2018-01-31
+25
+5000
+Opeth
+Opeth
+2018-02-01
+30
+100
+
+Festivals:
+VOA 2016
+2016-10-05
+Opeth
+2016-10-06
+Steven Wilson
+2016-10-05
+2016-10-06
+1 35
+2 50
+2016-10-05 10000
+2016-10-06 10000
+Grande Festivalao
+2017-02-27
+Guthrie Govan
+2017-02-28
+Storm Corrosion
+2017-03-01
+Steven Wilson
+Opeth
+2017-02-27
+2017-03-01
+1 35
+2 60
+3 85
+2017-02-27 10000
+2017-02-28 10000
+2017-03-01 10000
+
+Concerts of Opeth:
+Opeth @ Incrivel Almadense
+Opeth
+2011-11-20
+30
+250
+Opeth
+Opeth
+2018-02-01
+30
+100
+Festivals where Opeth will play:
+VOA 2016
+2016-10-05
+Opeth
+2016-10-06
+Steven Wilson
+2016-10-05
+2016-10-06
+1 35
+2 50
+2016-10-05 10000
+2016-10-06 10000
+Grande Festivalao
+2017-02-27
+Guthrie Govan
+2017-02-28
+Storm Corrosion
+2017-03-01
+Steven Wilson
+Opeth
+2017-02-27
+2017-03-01
+1 35
+2 60
+3 85
+2017-02-27 10000
+2017-02-28 10000
+2017-03-01 10000
+
+Concerts of Steven Wilson:
+Steven Wilson yet again
+Steven Wilson
+2017-01-30
+25
+250
+Steven Wilson in Lisbon
+Steven Wilson
+2018-01-31
+25
+5000
+Festivals where Steven Wilson will play:
+VOA 2016
+2016-10-05
+Opeth
+2016-10-06
+Steven Wilson
+2016-10-05
+2016-10-06
+1 35
+2 50
+2016-10-05 10000
+2016-10-06 10000
+Grande Festivalao
+2017-02-27
+Guthrie Govan
+2017-02-28
+Storm Corrosion
+2017-03-01
+Steven Wilson
+Opeth
+2017-02-27
+2017-03-01
+1 35
+2 60
+3 85
+2017-02-27 10000
+2017-02-28 10000
+2017-03-01 10000
+
+Exiting.
+

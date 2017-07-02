@@ -1,0 +1,26 @@
+User was registered: client1
+
+User was registered: client2
+
+User was registered: admin1
+
+Welcome stevenwilson@gmail.com
+
+Goodbye stevenwilson@gmail.com
+
+Welcome guthriegovan@gmail.com
+
+Goodbye guthriegovan@gmail.com
+
+User was registered: admin2
+
+Welcome stormcorrosion@gmail.com
+
+Goodbye stormcorrosion@gmail.com
+
+Welcome opeth@gmail.com
+
+Goodbye opeth@gmail.com
+
+Exiting.
+

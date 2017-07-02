@@ -1,0 +1,130 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Opeth @ Incrivel Almadense on 2011-11-20:
+Opeth @ Incrivel Almadense
+Opeth
+2011-11-20
+30
+250
+
+Goodbye opeth@gmail.com
+
+VOA on 2017-10-20:
+VOA
+2017-10-20
+Opeth
+2017-10-21
+Storm Corrosion
+2017-10-20
+2017-10-21
+1 35
+2 50
+2017-10-20 12500
+2017-10-21 12500
+
+All shows:
+Steven Wilson in Lisbon
+Steven Wilson
+2018-01-31
+25
+5000
+Grande Festivalao
+2017-02-27
+Guthrie Govan
+2017-02-28
+Storm Corrosion
+2017-03-01
+Steven Wilson
+Opeth
+2017-02-27
+2017-03-01
+1 35
+2 60
+3 85
+2017-02-27 10000
+2017-02-28 10000
+2017-03-01 10000
+VOA
+2016-10-05
+Opeth
+2016-10-06
+Steven Wilson
+2016-10-05
+2016-10-06
+1 35
+2 50
+2016-10-05 10000
+2016-10-06 10000
+Opeth @ Incrivel Almadense
+Opeth
+2011-11-20
+30
+250
+Opeth @ Incrivel Almadense
+Opeth
+2012-12-01
+30
+250
+Steven Wilson
+Steven Wilson
+2012-12-01
+30
+500
+VOA
+2017-10-20
+Opeth
+2017-10-21
+Storm Corrosion
+2017-10-20
+2017-10-21
+1 35
+2 50
+2017-10-20 12500
+2017-10-21 12500
+
+Welcome stevenwilson@gmail.com
+
+Steven Wilson in Lisbon on 2018-01-31:
+Steven Wilson in Lisbon
+Steven Wilson
+2018-01-31
+25
+5000
+
+Exiting.
+

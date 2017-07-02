@@ -1,0 +1,109 @@
+REGISTER
+Admin
+opeth@gmail.com
+REGISTER
+Client
+stevenwilson@gmail.com
+LOGIN
+opeth@gmail.com
+admin1
+ADDARTIST
+Opeth
+3
+Blackwater Park
+Ghost Reveries
+Heritage
+3
+Mikael Akerfeldt
+Martin Mendez
+Martin Axenrot
+ADDARTIST
+Storm Corrosion
+1
+Storm Corrosion
+2
+Mikael Akerfeldt
+Steven Wilson
+ADDARTIST
+Steven Wilson
+2
+The Raven That Refused To Sing
+Hand Cannot Erase
+1
+ADDARTIST
+Guthrie Govan
+1
+Erotic Cakes
+1
+SHOWS
+ADDSHOW
+Steven Wilson in Lisbon
+Ao vivo no MEO arena
+5000
+Concert
+Steven Wilson
+2018-01-31
+25
+ADDSHOW
+Grande Festivalao
+Nunca vai acontecer
+10000
+Festival
+3
+2017-02-27
+1
+Guthrie Govan
+1
+Storm Corrosion
+2
+Steven Wilson
+Opeth
+1 35
+2 60
+3 85
+ADDSHOW
+VOA 2016
+VOA rocks
+10000
+Festival
+2
+2016-10-05
+1
+Opeth
+1
+Steven Wilson
+1 35
+2 50
+ADDSHOW
+Opeth @ Incrivel Almadense
++ Pain of Salvation
+250
+Concert
+Opeth
+2011-11-20
+30
+ADDSHOW
+Opeth
+Autodescritivo
+100
+Concert
+Opeth
+2018-02-01
+30
+ADDSHOW
+Steven Wilson yet again
+Fake description
+250
+Concert
+Steven Wilson
+2017-01-30
+25
+SHOWSBYTYPE
+Concert
+SHOWSBYTYPE
+Festival
+SEARCH
+Opeth
+SEARCH
+Steven Wilson
+EXIT

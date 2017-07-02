@@ -1,0 +1,41 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Unknown type of show.
+
+Concerts of Coiso:
+Festivals where Coiso will play:
+
+Exiting.
+

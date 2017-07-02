@@ -1,0 +1,91 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Goodbye opeth@gmail.com
+
+User was registered: client2
+
+Welcome stevenwilson@gmail.com
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 30.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 125.
+
+My tickets:
+Opeth
+2018-02-01
+1
+30
+Opeth
+2018-02-01
+2
+60
+Steven Wilson in Lisbon
+2018-01-31
+5
+125
+Grande Festivalao
+2017-02-27
+2017-03-01
+60
+
+Goodbye stevenwilson@gmail.com
+
+Welcome guthrie@gmail.com
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 35.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+My tickets:
+Opeth
+2018-02-01
+2
+60
+VOA 2016
+2016-10-05
+35
+
+Exiting.
+

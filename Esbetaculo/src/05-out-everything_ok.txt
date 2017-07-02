@@ -1,0 +1,140 @@
+User was registered: admin1
+
+User was registered: client1
+
+Welcome opeth@gmail.com
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+Artist added.
+
+All shows:
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+CONCERT OR FESTIVAL?
+Show added.
+
+Goodbye opeth@gmail.com
+
+User was registered: client2
+
+Welcome stevenwilson@gmail.com
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 30.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 125.
+
+My tickets:
+Opeth
+2018-02-01
+1
+30
+Opeth
+2018-02-01
+2
+60
+Steven Wilson in Lisbon
+2018-01-31
+5
+125
+Grande Festivalao
+2017-02-27
+2017-03-01
+60
+
+Goodbye stevenwilson@gmail.com
+
+Welcome guthrie@gmail.com
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 35.
+
+CONCERT OR FESTIVAL?
+Ticket bought with cost 60.
+
+My tickets:
+Opeth
+2018-02-01
+2
+60
+VOA 2016
+2016-10-05
+35
+
+Most sold shows:
+Steven Wilson in Lisbon
+Steven Wilson
+2018-01-31
+25
+4995
+Opeth
+Opeth
+2018-02-01
+30
+95
+Grande Festivalao
+2017-02-27
+Guthrie Govan
+2017-02-28
+Storm Corrosion
+2017-03-01
+Steven Wilson
+Opeth
+2017-02-27
+2017-03-01
+1 35
+2 60
+3 85
+2017-02-27 9999
+2017-02-28 10000
+2017-03-01 9999
+VOA 2016
+2016-10-05
+Opeth
+2016-10-06
+Steven Wilson
+2016-10-05
+2016-10-06
+1 35
+2 50
+2016-10-05 9999
+2016-10-06 10000
+Opeth @ Incrivel Almadense
+Opeth
+2011-11-20
+30
+250
+Steven Wilson yet again
+Steven Wilson
+2017-01-30
+25
+250
+
+Exiting.
+
